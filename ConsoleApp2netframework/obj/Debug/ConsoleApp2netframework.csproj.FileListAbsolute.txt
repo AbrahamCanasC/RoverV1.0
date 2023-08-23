@@ -1,0 +1,10 @@
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\bin\Debug\ConsoleApp2netframework.exe.config
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\bin\Debug\ConsoleApp2netframework.exe
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\bin\Debug\ConsoleApp2netframework.pdb
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\bin\Debug\SlimDX.dll
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\obj\Debug\ConsoleApp2netframework.csproj.AssemblyReference.cache
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\obj\Debug\ConsoleApp2netframework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\obj\Debug\ConsoleApp2netframework.csproj.CoreCompileInputs.cache
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\obj\Debug\ConsoleApp2netframework.csproj.CopyComplete
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\obj\Debug\ConsoleApp2netframework.exe
+C:\Users\Abraham Canás\Documents\Software Project\C#\ConsoleApp2netframework\obj\Debug\ConsoleApp2netframework.pdb

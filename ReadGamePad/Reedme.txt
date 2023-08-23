@@ -1,0 +1,2 @@
+Detecta el estado y nombre de los botones de un 
+Gamepad genérico.

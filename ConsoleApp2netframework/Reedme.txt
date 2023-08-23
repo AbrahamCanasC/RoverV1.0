@@ -1,0 +1,4 @@
+Al detectar los botones del gamepad, le asigna una 
+función para interactividad.
+
+En estado Beta (aún inestable).
